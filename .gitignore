@@ -1,0 +1,8 @@
+*.png
+*.p_o
+*.o
+*.hi
+*.ini
+*.prof
+Main
+dist
